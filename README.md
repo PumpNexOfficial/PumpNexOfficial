@@ -1,27 +1,24 @@
-# 🚀 PumpNex — Solana Meme Coin Launchpad & DeFi Hub
+# 🚀 PumpNex — Solana Meme Coin Launchpad, DEX & DeFi Hub
 
-**Website:** [PumpNex.com](https://PumpNex.com)  
-**WhitePaper:** [View WhitePaper](./whitepaper/WhitePaper.md)  
-**Twitter/X:** [@PumpNexOfficial](https://x.com/PumpNexOfficial)  
-**Telegram:** [PumpNexOfficial](https://t.me/PumpNexOfficial)  
-**Medium Blog:** [nexxsolana](https://medium.com/@nexxsolana)  
+**PumpNex** is a **people-first, profit-first** DeFi ecosystem on **Solana**: a fast **No-Code Launchpad**, built-in **DEX**, **Anti-Scam** checks, **WhaleHunter**, and **free pro tools** for traders and builders.
 
----
+- ⚡ Speed-first: ultra-fast swaps and listings on Solana
+- 🛡 Anti-Scam: liquidity/ownership checks, honeypot/rug detection
+- 🐋 WhaleHunter: real-time big-wallet tracking
+- 🤖 Free Sniper & Analytics: no paywall at launch
+- 🗳 DAO & $NXX: governance + revenue sharing
 
-## 📌 About PumpNex
-PumpNex is a **Solana-based DeFi hub** for **meme coin creation, trading, and analytics** — built with security, speed, and transparency in mind.  
-We combine **no-code token creation**, **DEX trading**, **anti-scam tools**, **whale tracking**, and **DAO governance** into one ecosystem.
+## 💰 Tokenomics (TL;DR)
+- **25%** of platform revenue → **$NXX stakers**
+- **10%** → **buyback & burn $NXX** (deflation)
+- **5%** → **DAO Treasury** (grants, marketing, growth)
+- Remaining → ops, marketing, team (vesting), reserves  
+Utility: launch payments, DEX fee discounts, staking/votes, early access to premium tools.
 
----
+➡ Full details: **[LightPaper](./whitepaper/LightPaper.md)**
 
-## 📄 WhitePaper
-Full project details, roadmap, and tokenomics can be found in the [WhitePaper](./whitepaper/WhitePaper.md).
-
----
-
-## 🔗 Quick Links
-- **Website:** [PumpNex.com](https://PumpNex.com)
-- **GitHub Org:** [PumpNexOfficial](https://github.com/PumpNexOfficial)
-- **Twitter/X:** [@PumpNexOfficial](https://x.com/PumpNexOfficial)
-- **Telegram:** [PumpNexOfficial](https://t.me/PumpNexOfficial)
-- **Medium Blog:** [nexxsolana](https://medium.com/@nexxsolana)
+## 🔗 Official Links
+- 🌐 Website: https://PumpNex.com
+- 🐦 Twitter/X: https://x.com/PumpNexOfficial
+- 💬 Telegram: https://t.me/PumpNexOfficial
+- 📰 Medium: https://medium.com/@nexxsolana
