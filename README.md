@@ -1,6 +1,6 @@
 # 🚀 PumpNex — Solana Meme Coin Launchpad, DEX & DeFi Hub
 
-**PumpNex** is a **people-first, profit-first** DeFi ecosystem on **Solana**: a fast **No-Code Launchpad**, built-in **DEX**, **Anti-Scam** checks, **WhaleHunter**, and **free pro tools** for traders and builders.
+**pumpnex** is a **people-first, profit-first** DeFi ecosystem on **Solana**: a fast **No-Code Launchpad**, built-in **DEX**, **Anti-Scam** checks, **WhaleHunter**, and **free pro tools** for traders and builders.
 
 - ⚡ **Speed-first:** ultra-fast swaps and listings on Solana
 - 🛡 **Anti-Scam:** liquidity/ownership checks, honeypot/rug detection
@@ -18,7 +18,7 @@ Utility: launch payments, DEX fee discounts, staking/votes, early access to prem
 ➡ Full details: **[LightPaper](./whitepaper/LightPaper.md)**
 
 ## 🔗 Official Links
-- 🌐 Website: https://PumpNex.com
-- 🐦 Twitter/X: https://x.com/PumpNexOfficial
-- 💬 Telegram: https://t.me/PumpNexOfficial
+- 🌐 Website: https://pumpnex.com
+- 🐦 Twitter/X: https://x.com/pumpnexOfficial
+- 💬 Telegram: https://t.me/pumpnexOfficial
 - 📰 Medium: https://medium.com/@nexxsolana
