@@ -1,7 +1,7 @@
 # 🚀 PumpNex — Solana Meme Coin Launchpad, DEX & DeFi Hub
 
 **Version:** 1.0 | **Date:** August 2025  
-**Official Website:** https://pumpnext.com  
+**Official Website:** https://PumpNex.com  
 **Twitter / X:** https://x.com/PumpNexOfficial  
 **Telegram:** https://t.me/PumpNexOfficial  
 **GitHub:** https://github.com/PumpNexOfficial  
@@ -84,7 +84,7 @@ Plain, jargon-light English to ensure accurate translations to Arabic, Turkish, 
 
 ## 7. Contact & Socials
 
-- **Website:** https://pumpnext.com  
+- **Website:** https://PumpNex.com  
 - **Twitter / X:** https://x.com/PumpNexOfficial  
 - **Telegram:** https://t.me/PumpNexOfficial  
 - **GitHub:** https://github.com/PumpNexOfficial  

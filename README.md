@@ -1,6 +1,6 @@
 # 🚀 PumpNex — Solana Meme Coin Launchpad & DeFi Hub
 
-**Website:** [pumpnext.com](https://pumpnext.com)  
+**Website:** [PumpNex.com](https://PumpNex.com)  
 **WhitePaper:** [View WhitePaper](./whitepaper/WhitePaper.md)  
 **Twitter/X:** [@PumpNexOfficial](https://x.com/PumpNexOfficial)  
 **Telegram:** [PumpNexOfficial](https://t.me/PumpNexOfficial)  
@@ -20,7 +20,7 @@ Full project details, roadmap, and tokenomics can be found in the [WhitePaper](.
 ---
 
 ## 🔗 Quick Links
-- **Website:** [pumpnext.com](https://pumpnext.com)
+- **Website:** [PumpNex.com](https://PumpNex.com)
 - **GitHub Org:** [PumpNexOfficial](https://github.com/PumpNexOfficial)
 - **Twitter/X:** [@PumpNexOfficial](https://x.com/PumpNexOfficial)
 - **Telegram:** [PumpNexOfficial](https://t.me/PumpNexOfficial)
