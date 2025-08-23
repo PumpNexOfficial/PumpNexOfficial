@@ -1,16 +1,16 @@
 # 🚀 PumpNex — Solana Meme Coin Launchpad, DEX & DeFi Hub
 
 **Version:** 1.0 | **Date:** August 2025  
-**Website:** https://PumpNex.com  
-**Twitter/X:** https://x.com/PumpNexOfficial  
-**Telegram:** https://t.me/PumpNexOfficial  
-**GitHub:** https://github.com/PumpNexOfficial  
+**Website:** https://pumpnex.com  
+**Twitter/X:** https://x.com/pumpnexOfficial  
+**Telegram:** https://t.me/pumpnexOfficial  
+**GitHub:** https://github.com/pumpnexOfficial  
 **Medium:** https://medium.com/@nexxsolana
 
 ---
 
 ## 🌍 What is PumpNex?
-**PumpNex** is a **people-first, profit-first** DeFi ecosystem on **Solana**.  
+**pumpnex** is a **people-first, profit-first** DeFi ecosystem on **Solana**.  
 It unifies **No-Code Token Launch**, a **blazing-fast DEX**, **anti-scam protection**, **whale-tracking analytics**, and **DAO-governed revenue sharing** — so users can **create, trade, and earn** faster and safer than anywhere else.
 
 **Mission:** empower the community to **launch** tokens in seconds, **trade** with confidence, and **profit** together via staking and DAO.
@@ -64,7 +64,7 @@ Cross-chain expansion (EVM/BSC/Polygon) brings:
 
 ## 📊 Competitive Edge
 
-| Feature                           | Pump.fun | Maestro | BonkBot | **PumpNex** |
+| Feature                           | Pump.fun | Maestro | BonkBot | **pumpnex** |
 |-----------------------------------|:--------:|:-------:|:-------:|:-----------:|
 | No-Code Token Creation            |    ❌     |   ❌    |   ❌    |     ✅      |
 | Built-in DEX                      |    ❌     |   ❌    |   ❌    |     ✅      |
@@ -111,11 +111,11 @@ Cross-chain expansion (EVM/BSC/Polygon) brings:
 ---
 
 ## 🏁 Join the Movement
-PumpNex is a **revolution in how meme coins are created, traded, and profited from**.  
+pumpnex is a **revolution in how meme coins are created, traded, and profited from**.  
 If you want to be in the **first wave** of the next crypto explosion — this is your moment.
 
-- 🌐 Website: https://PumpNex.com  
-- 🐦 Twitter/X: https://x.com/PumpNexOfficial  
-- 💬 Telegram: https://t.me/PumpNexOfficial  
-- 💻 GitHub: https://github.com/PumpNexOfficial  
+- 🌐 Website: https://pumpnex.com  
+- 🐦 Twitter/X: https://x.com/pumpnexOfficial  
+- 💬 Telegram: https://t.me/pumpnexOfficial  
+- 💻 GitHub: https://github.com/pumpnexOfficial  
 - 📰 Medium: https://medium.com/@nexxsolana
