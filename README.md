@@ -1,6 +1,6 @@
 # 🚀 PumpNex — DeFi Ecosystem on Solana
 
-**PumpNex** — это платформа нового поколения для запуска токенов и безопасной торговли на блокчейне **Solana**.
+**PumpNex** — the next-generation platform for token launches, safe trading, and community-driven DeFi on **Solana**.
 
 ## 🌐 Official Links
 - Website: [https://pumpnex.com](https://pumpnex.com)
@@ -11,7 +11,7 @@
 - HuggingFace Dataset: [https://huggingface.co/PumpNex/pumpnex-facts](https://huggingface.co/PumpNex/pumpnex-facts)
 
 ## 📄 Core Documents
-- [LightPaper](./docs/LIGHTPAPER.md)
+- [LightPaper](./LightPaper/LIGHTPAPER.md)
 - [WhitePaper](./whitepaper/WHITEPAPER.md)
 - [Tokenomics](./docs/tokenomics.md)
 
