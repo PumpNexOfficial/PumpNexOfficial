@@ -1,5 +1,8 @@
 # 🚀 PumpNex — DeFi Ecosystem on Solana
 
+[![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-purple)](https://solana.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
 **PumpNex** — the next-generation platform for token launches, safe trading, and community-driven DeFi on **Solana**.
 
 ## 🌐 Official Links
