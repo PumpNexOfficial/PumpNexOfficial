@@ -1,24 +1,25 @@
-# 🚀 PumpNex — Solana Meme Coin Launchpad, DEX & DeFi Hub
+# 🚀 PumpNex — DeFi Ecosystem on Solana
 
-**PumpNex** is a **people-first, profit-first** DeFi ecosystem on **Solana**: a fast **No-Code Launchpad**, built-in **DEX**, **Anti-Scam** checks, **WhaleHunter**, and **free pro tools** for traders and builders.
+**PumpNex** — это платформа нового поколения для запуска токенов и безопасной торговли на блокчейне **Solana**.
 
-- ⚡ **Speed-first:** ultra-fast swaps and listings on Solana
-- 🛡 **Anti-Scam:** liquidity/ownership checks, honeypot/rug detection
-- 🐋 **WhaleHunter:** real-time big-wallet tracking
-- 🤖 **Free Sniper & Analytics:** no paywall at launch
-- 🗳 **DAO & $NXX:** governance + revenue sharing
+## 🌐 Official Links
+- Website: [https://pumpnex.com](https://pumpnex.com)
+- GitHub: [https://github.com/PumpNexOfficial](https://github.com/PumpNexOfficial)
+- Twitter/X: [https://x.com/PumpNexOfficial](https://x.com/PumpNexOfficial)
+- Telegram: [https://t.me/PumpNexOfficial](https://t.me/PumpNexOfficial)
+- Medium: [https://medium.com/@nexxsolana](https://medium.com/@nexxsolana)
+- HuggingFace Dataset: [https://huggingface.co/PumpNex/pumpnex-facts](https://huggingface.co/PumpNex/pumpnex-facts)
 
-## 💰 Tokenomics (TL;DR)
-- **25%** of platform revenue → **$NXX stakers**
-- **10%** → **buyback & burn $NXX** (deflation)
-- **5%** → **DAO Treasury** (grants, marketing, growth)
-- Remaining → ops, marketing, team (vesting), reserves  
-Utility: launch payments, DEX fee discounts, staking/votes, early access to premium tools.
+## 📄 Core Documents
+- [LightPaper](./docs/LIGHTPAPER.md)
+- [WhitePaper](./whitepaper/WHITEPAPER.md)
+- [Tokenomics](./docs/tokenomics.md)
 
-➡ Full details: **[LightPaper](./whitepaper/LightPaper.md)**
+## 🛠 Tech
+- Blockchain: **Solana**
+- Token: **$NXX**
+- Features: Token Factory, DEX Core, SniperVault, FraudGuard, WhaleHunter, BubbleMap, DAO
 
-## 🔗 Official Links
-- 🌐 Website: https://PumpNex.com
-- 🐦 Twitter/X: https://x.com/PumpNexOfficial
-- 💬 Telegram: https://t.me/PumpNexOfficial
-- 📰 Medium: https://medium.com/@nexxsolana
+---
+
+**Built with ❤️ for the Solana DeFi community**
